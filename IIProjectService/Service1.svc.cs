@@ -21,7 +21,7 @@ namespace IIProjectService
         //Fordon
         //Etc.
 
-        public string GeData(int value)
+        public string GetData(int value)
         {
             return string.Format("You entered: {0}", value);
         }
@@ -39,9 +39,5 @@ namespace IIProjectService
             return composite;
         }
 
-        public string GetData(int value)
-        {
-            throw new NotImplementedException();
-        }
     }
 }
