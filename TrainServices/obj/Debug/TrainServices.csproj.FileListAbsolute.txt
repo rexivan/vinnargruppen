@@ -1,0 +1,6 @@
+U:\Informationsinfrastruktur\Projekt\IIProjectWork\TrainServices\bin\TrainServices.dll.config
+U:\Informationsinfrastruktur\Projekt\IIProjectWork\TrainServices\bin\TrainServices.dll
+U:\Informationsinfrastruktur\Projekt\IIProjectWork\TrainServices\bin\TrainServices.pdb
+U:\Informationsinfrastruktur\Projekt\IIProjectWork\TrainServices\obj\Debug\TrainServices.csprojResolveAssemblyReference.cache
+U:\Informationsinfrastruktur\Projekt\IIProjectWork\TrainServices\obj\Debug\TrainServices.dll
+U:\Informationsinfrastruktur\Projekt\IIProjectWork\TrainServices\obj\Debug\TrainServices.pdb
